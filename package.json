@@ -1,0 +1,26 @@
+{
+  "name": "reentrancy_attack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devendra-yadav/reentrancy_attack.git"
+  },
+  "author": "devendra.yadav@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devendra-yadav/reentrancy_attack/issues"
+  },
+  "homepage": "https://github.com/devendra-yadav/reentrancy_attack#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@openzeppelin/contracts": "^4.7.3",
+    "chai": "^4.3.6",
+    "hardhat": "^2.10.2",
+    "mocha": "^10.0.0"
+  }
+}
